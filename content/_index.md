@@ -11,7 +11,7 @@ sections:
         AI Security & Privacy Lab
       image:
         filename: Logo-2.png
-        size:  300px
+        size:  200px
       text: |
         <br>
         

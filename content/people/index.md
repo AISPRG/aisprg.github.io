@@ -12,13 +12,14 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Lab Directors
+          - Co-director
           - Principal Investigators
           - Academic Staff
           - PhD Students
           - Administration
           - Visitors
           - Alumni
-          - Co-director
+        
       sort_by: Params.weight
       sort_ascending: true
     design:
