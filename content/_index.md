@@ -11,12 +11,10 @@ sections:
         AI Security & Privacy Lab
       image:
         filename: Logo-2.png
-        size:  200px
+        width:  200
       text: 
-        # <img src="assets/media/Logo-2.png" alt="Logo" style="width: 200px;"><br>
         <br>
-        
-        The **AI Security & Privacy Lab** has been a center of excellence for AI/Data security and privacy research, teaching, and practice since its founding in 2019. 
+        The AI Security & Privacy Lab has been a center of excellence for AI/Data security and privacy research, teaching, and practice since its founding in 2019. 
   
   - block: collection
     content:
