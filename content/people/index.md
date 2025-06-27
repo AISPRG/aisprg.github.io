@@ -18,6 +18,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Co-director
       sort_by: Params.weight
       sort_ascending: true
     design:

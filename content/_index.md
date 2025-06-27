@@ -10,7 +10,7 @@ sections:
       title: |
         AI Security & Privacy Lab
       image:
-        filename: welcome.jpg
+        filename: Logo-2.png
         size:  300px
       text: |
         <br>
