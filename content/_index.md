@@ -8,13 +8,21 @@ sections:
   - block: hero
     content:
       title: |
-        <img src="assets/media/Logo-2.png" style="width: 100px !important; height: auto !important; display: block; margin: 0 auto 20px auto;">
         AI Security & Privacy Lab
+      image:
+        filename: Logo-2.png  # Hugo finds this in assets/media/
       text: 
         <br>
         The AI Security & Privacy Lab is a core lab at the Australian Artificial Intelligence Institute (AAII) at University of Technology Sydney (UTS). It has been a center of excellence for AI/Data security and privacy research, teaching, and practice since its founding in 2019. 
     design:
       columns: '1'
+      css_style: |
+        .hero-media img,
+        img[src*="Logo-2"] {
+          max-width: 100px !important;
+          width: 100px !important;
+          height: auto !important;
+        }
 
   
   - block: collection
