@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <img src="Logo-2.png" style="width: 100px !important; height: auto !important; display: block; margin: 0 auto 20px auto;">
+        <img src="media/Logo-2.png" style="width: 100px !important; height: auto !important; display: block; margin: 0 auto 20px auto;">
         AI Security & Privacy Lab
       text: 
         <br>
