@@ -19,7 +19,7 @@ sections:
       columns: '1'
       css_style: |
         .hero-media img {
-          max-width: 200px;
+          max-width: 100px;
           height: auto ;
         }
   
