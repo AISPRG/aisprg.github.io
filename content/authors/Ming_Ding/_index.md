@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Scientist, Data 61 (Lab Co-director)
+role: Group Lead and Principal Scientist, Data 61 (Lab Co-director)
 
 # Organizations/Affiliations
 organizations:
