@@ -10,7 +10,7 @@ sections:
       title: |
         AI Security & Privacy Lab
       image:
-        filename: Logo-600.png  # Hugo finds this in assets/media/
+        filename: Logo-300.png  # Hugo finds this in assets/media/
       text: 
         <br>
         The AI Security & Privacy Lab is a core lab at the Australian Artificial Intelligence Institute (AAII) at University of Technology Sydney (UTS). It has been a center of excellence for AI/Data security and privacy research, teaching, and practice since its founding in 2019. 
