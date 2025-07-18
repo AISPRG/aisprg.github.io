@@ -19,8 +19,8 @@ sections:
       columns: '1'
       css_style: |
         .hero-media img {
-          max-width: 400px !important;
-          height: auto !important;
+          max-width: 200px;
+          height: auto ;
         }
   
   - block: collection
