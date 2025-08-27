@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Heng Xu is an Associate Professor at the City University of Macau. His research interests fall into the fields of AI security and privacy preservation, especially machine unlearning, unlearning verification mechanism.
+bio: Dayong Ye is an Associate Professor at the City University of Macau. His research interests fall into the fields of AI security and privacy preservation, especially machine unlearning, unlearning verification mechanism.
 
 interests:
   - AI Security
