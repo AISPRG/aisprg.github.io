@@ -15,25 +15,29 @@ sections:
 
                 Our group focuses on advancing knowledge and developing innovative solutions in the following key areas:
 
-                * **Visual data security and privacy protection**
+                * **Data security and privacy protection**
 
-                    Enhancing the safety and confidentiality of visual information through innovative AI-driven solutions.
+                    Enhancing the safety and confidentiality of data through innovative AI-driven solutions.
 
 
                     * Face De-identification.
                     * Privacy attacks and defenses on visual data
+                    * Privacy of health data
 
-                * **Deepfake Detection**
+                * **Deepfake/Misinformation Detection**
 
                     Developing advanced techniques to identify and mitigate manipulated media for secure and trustworthy digital spaces.
 
-                * **Machine learning and privacy**
+                * **AI security and privacy**
 
-                    Designing machine learning methods that prioritize data protection and ethical use of sensitive information.
+                    Ensuring AI systems are secure, trustworthy, unbiased, equitable, and transparent to foster trust and inclusivity in technology.
 
-                * **Fairness in AI and Machine Learning**
+                   *Attackes and defences in AI and Machine Learning
+                   *Fairness in AI and Machine Learning
+                   *AI model safety risk assessment
+                   
 
-                    Ensuring AI systems are unbiased, equitable, and transparent to foster trust and inclusivity in technology.
+                    
 
         # # Featured Projects
 
