@@ -32,9 +32,9 @@ sections:
 
                     Ensuring AI systems are secure, trustworthy, unbiased, equitable, and transparent to foster trust and inclusivity in technology.
 
-                   *Attackes and defences in AI and Machine Learning
-                   *Fairness in AI and Machine Learning
-                   *AI model safety risk assessment
+                    * Attackes and defences in AI and Machine Learning
+                    * Fairness in AI and Machine Learning
+                    * AI model safety risk assessment
                    
 
                     
