@@ -70,12 +70,12 @@ sections:
 
           <div style="flex:1 1 400px; text-align:center;">
             {{< youtube pmzKpJUEGxo >}}
-            <p style="font-size:1.1rem; margin-top:8px;"><strong>Talk 1: Model Red-Teaming & Generative AI Safety</strong></p>
+            <p style="font-size:1.1rem; margin-top:8px;"><strong>Face de-identfication and privacy protection</strong></p>
           </div>
 
           <div style="flex:1 1 400px; text-align:center;">
             {{< youtube paLK2bdhdyM >}}
-            <p style="font-size:1.1rem; margin-top:8px;"><strong>Talk 2: Trustworthy Multimodal Systems & Defenses</strong></p>
+            <p style="font-size:1.1rem; margin-top:8px;"><strong>From Deepfake detection to misinformation detection</strong></p>
           </div>
 
         </div>
