@@ -18,25 +18,38 @@ sections:
       columns: '1'
 
 
-  
-  - block: collection
+  - block: markdown
     content:
       title: Latest News
       subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      text: |
+        <details open>
+        - **[NDSS'26 x1]** 1 papers accepted at ICML-25 (CORE A*/CCF A) (05/2025).
+        - **[Usenix Security'25 x3]** Three papers accepted at Usenix Security'25 (CORE A*/CCF A).
+        </details>
+        <!-- add more years/sections here if you like -->
     design:
-      view: card
       columns: '1'
+
+  
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 5
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '1'
   
   # - block: markdown
   #   content:
