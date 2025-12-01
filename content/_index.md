@@ -23,6 +23,7 @@ sections:
       title: Latest News
       subtitle:
       text: |
+        <div style="font-size: 1.25rem;">
         <details open>
           <summary><strong>Recent News (2025)</strong></summary>
           <ul>
@@ -30,6 +31,7 @@ sections:
             <li><strong>[Usenix Security'25 x3]</strong> Three papers accepted at Usenix Security'25 (CORE A*/CCF A).</li>
           </ul>
         </details>
+        </div>
     design:
       columns: '1'
 
