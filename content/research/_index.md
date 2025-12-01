@@ -63,26 +63,21 @@ sections:
 
   - block: markdown
     content:
-      title: Research Talks & Demos
+      title: Research Highlights
       subtitle:
       text: |
-        <div style="display:flex; flex-wrap:wrap; gap:20px;">
-          <div style="flex:1 1 300px;">
-            <iframe width="100%" height="315"
-                    src="https://www.youtube.com/watch?v=pmzKpJUEGxo"
-                    title="YouTube video"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+        <div style="display:flex; flex-wrap:wrap; gap:40px; justify-content:center;">
+
+          <div style="flex:1 1 400px; text-align:center;">
+            {{< youtube pmzKpJUEGxo >}}
+            <p style="font-size:1.1rem; margin-top:8px;"><strong>Talk 1: Model Red-Teaming & Generative AI Safety</strong></p>
           </div>
-          <div style="flex:1 1 300px;">
-            <iframe width="100%" height="315"
-                    src="https://www.youtube.com/watch?v=paLK2bdhdyM"
-                    title="YouTube video"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+
+          <div style="flex:1 1 400px; text-align:center;">
+            {{< youtube paLK2bdhdyM >}}
+            <p style="font-size:1.1rem; margin-top:8px;"><strong>Talk 2: Trustworthy Multimodal Systems & Defenses</strong></p>
           </div>
+
         </div>
     design:
       columns: '1'
