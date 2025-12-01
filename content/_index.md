@@ -24,12 +24,15 @@ sections:
       subtitle:
       text: |
         <details open>
-        - **[NDSS'26 x1]** 1 papers accepted at ICML-25 (CORE A*/CCF A) (05/2025).
-        - **[Usenix Security'25 x3]** Three papers accepted at Usenix Security'25 (CORE A*/CCF A).
+          <summary><strong>Recent News (2025)</strong></summary>
+          <ul>
+            <li><strong>[NDSS'26 x1]</strong> 1 paper accepted at ICML-25 (CORE A*/CCF A) (05/2025).</li>
+            <li><strong>[Usenix Security'25 x3]</strong> Three papers accepted at Usenix Security'25 (CORE A*/CCF A).</li>
+          </ul>
         </details>
-        <!-- add more years/sections here if you like -->
     design:
       columns: '1'
+
 
   
   # - block: collection
