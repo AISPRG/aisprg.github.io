@@ -61,6 +61,33 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    content:
+      title: Research Talks & Demos
+      subtitle:
+      text: |
+        <div style="display:flex; flex-wrap:wrap; gap:20px;">
+          <div style="flex:1 1 300px;">
+            <iframe width="100%" height="315"
+                    src="https://www.youtube.com/watch?v=pmzKpJUEGxo"
+                    title="YouTube video"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+          </div>
+          <div style="flex:1 1 300px;">
+            <iframe width="100%" height="315"
+                    src="https://www.youtube.com/watch?v=paLK2bdhdyM"
+                    title="YouTube video"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+          </div>
+        </div>
+    design:
+      columns: '1'
+
+  
   - block: collection
     id: featured
     content:
