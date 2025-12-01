@@ -24,13 +24,51 @@ sections:
       subtitle:
       text: |
         <div style="font-size: 1.25rem;">
-        <details open>
-          <summary><strong>Recent News (2025)</strong></summary>
-          <ul>
-            <li><strong>[NDSS'26 x1]</strong> 1 paper accepted at ICML-25 (CORE A*/CCF A) (05/2025).</li>
-            <li><strong>[Usenix Security'25 x3]</strong> Three papers accepted at Usenix Security'25 (CORE A*/CCF A).</li>
-          </ul>
-        </details>
+        <ul>
+
+          <!-- NDSS'26 -->
+          <li>
+            <details>
+              <summary><strong>[NDSS'26 x1]</strong> 1 paper accepted at NDSS 2026</summary>
+              <ul>
+                <li>
+                  <strong>Paper Title:</strong>
+                  <a href="https://arxiv.org/abs/2509.09112" target="_blank">
+                    Character-Level Perturbations Disrupt LLM Watermarks
+                  </a>
+                </li>
+              </ul>
+            </details>
+          </li>
+
+          <!-- USENIX Security'25 -->
+          <li>
+            <details>
+              <summary><strong>[USENIX Security'25 x3]</strong> 3 papers accepted at USENIX Security 2025</summary>
+              <ul>
+                <li>
+                  <strong>Paper 1:</strong>
+                  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/ye-duplication" target="_blank">
+                    Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning
+                  </a>
+                </li>
+                <li>
+                  <strong>Paper 2:</strong>
+                  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/ye-attacks" target="_blank">
+                    Data-Free Model-Related Attacks: Unleashing the Potential of Generative AI
+                  </a>
+                </li>
+                <li>
+                  <strong>Paper 3:</strong>
+                  <a href="https://www.usenix.org/conference/usenixsecurity25/presentation/ye-inversion" target="_blank">
+                    Cross-Modal Prompt Inversion: Unifying Threats to Text and Image Generative AI Models
+                  </a>
+                </li>
+              </ul>
+            </details>
+          </li>
+
+        </ul>
         </div>
     design:
       columns: '1'
