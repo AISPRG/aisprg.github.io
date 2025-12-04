@@ -29,12 +29,18 @@ sections:
           <!-- NDSS'26 -->
           <li>
             <details>
-              <summary><strong>[NDSS'26 x1]</strong> 1 paper accepted at NDSS 2026</summary>
+              <summary><strong>[NDSS'26 x2]</strong> 2 paper accepted at NDSS 2026 (12/2025)</summary>
               <ul>
                 <li>
-                  <strong>Paper Title:</strong>
+                  <strong>Paper 1:</strong>
                   <a href="https://arxiv.org/abs/2509.09112" target="_blank">
                     Character-Level Perturbations Disrupt LLM Watermarks
+                  </a>
+                </li>
+                <li>
+                  <strong>Paper 2:</strong>
+                  <a href="" target="_blank">
+                    Unshaken by Weak Embedding: Robust Probabilistic Watermarking for Dataset Copyright Protection
                   </a>
                 </li>
               </ul>
